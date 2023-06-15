@@ -1,6 +1,5 @@
 # List of my completed projects
 
-# My Projects
 https://www.therentalgram.com/ <br/>
 https://percipere.co/ <br />
 https://evectrifi.com/ <br/>
