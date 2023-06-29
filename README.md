@@ -17,9 +17,9 @@ https://k2impex.in/<br/>
 https://elementdecor.in/<br/>
 https://dhunseritea.com/ <br/>
 https://www.epilicious.in/ <br/>
-https://www.learningthroughfun.in/ <br/>
-https://www.pelltechhealthcare.com/ <br/>
-https://www.fashion-identity.com/ <br/>
+https://learningthroughfun.in/ <br/>
+https://pelltechhealthcare.com/ <br/>
+https://fashion-identity.com/ <br/>
 
 SOME CONTRIBUTIONS:
 
