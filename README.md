@@ -25,5 +25,4 @@ https://fashion-identity.com/ <br/>
 
 SOME CONTRIBUTIONS:
 
-https://cipio.ai/ <br/>
 https://digitactix.com/ <br/>
