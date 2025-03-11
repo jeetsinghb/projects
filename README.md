@@ -1,4 +1,10 @@
-# List of my completed projects
+# React/Next JS Projects
+
+https://www.emaavy.com/ <br/>
+School Management - (Under Development) <br/>
+
+# Website / Wordpress / Shopify Projects
+
 https://printsouq.ae/ <br/>
 https://sujanindustries.com/ <br/>
 https://therentalgram.com/ <br/>
