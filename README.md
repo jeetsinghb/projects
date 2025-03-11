@@ -1,9 +1,9 @@
 # React/Next JS Projects
 
-https://www.emaavy.com/ <br/><br/>
-
+https://www.emaavy.com/ <br/>
+https://shop.yodigitals.com/ <br/>
+School Management Application - (Under Development) <br/>
 <strong>More links coming soon</strong> <br/>
-School Management - (Under Development) <br/>
 
 # Website / Wordpress / Shopify Projects
 
