@@ -1,6 +1,8 @@
 # React/Next JS Projects
 
-https://www.emaavy.com/ <br/>
+https://www.emaavy.com/ <br/><br/>
+
+<strong>More links coming soon</strong> <br/>
 School Management - (Under Development) <br/>
 
 # Website / Wordpress / Shopify Projects
@@ -30,9 +32,3 @@ https://pelltechhealthcare.com/ <br/>
 https://fashion-identity.com/ <br/>
 https://www.wow-perfumes.com/ <br />
 https://niracc.com/ <br />
-<br/>
-<strong>More links coming soon</strong>
-
-SOME CONTRIBUTIONS:
-
-https://digitactix.com/ <br/>
