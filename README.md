@@ -1,11 +1,16 @@
 # React/Next JS Projects
 
+<strong>Advanced</strong> <br/>
 https://www.emaavy.com/ <br/>
 https://shop.yodigitals.com/ <br/>
 School Management Application - (Under Development) <br/>
+
+<strong>Basics</strong> <br/>
+https://sk-chuck-norris.netlify.app/ <br/>
+
 <strong>More links coming soon</strong> <br/>
 
-# Website / Wordpress / Shopify Projects
+# Website / WordPress / Shopify Projects
 
 https://printsouq.ae/ <br/>
 https://sujanindustries.com/ <br/>
