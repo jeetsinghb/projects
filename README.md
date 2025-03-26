@@ -8,7 +8,7 @@ School Management Application - (Under Development) <br/>
 <strong>Basics</strong> <br/>
 https://sk-chuck-norris.netlify.app/ <br/>
 
-<strong>More links coming soon</strong> <br/>
+<strong>More links coming soon...</strong> <br/>
 
 # Website / WordPress / Shopify Projects
 
