@@ -1,12 +1,13 @@
 # React/Next JS Projects
 
 <strong>Advanced</strong> <br/>
-https://www.emaavy.com/ <br/>
-https://shop.yodigitals.com/ <br/>
+https://www.emaavy.com/ - E-commerce <br/>
+https://shop.yodigitals.com/ - E-commerce <br/>
 School Management Application - (Under Development) <br/>
 
 <strong>Basics</strong> <br/>
 https://sk-chuck-norris.netlify.app/ <br/>
+https://sk-pokemon-cards.netlify.app/ <br/>
 
 <strong>More links coming soon...</strong> <br/>
 
