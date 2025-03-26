@@ -1,8 +1,8 @@
 # React/Next JS Projects
 
 <strong>Advanced</strong> <br/>
-https://www.emaavy.com/ - E-commerce <br/>
-https://shop.yodigitals.com/ - E-commerce <br/>
+https://www.emaavy.com/ - (E-commerce) <br/>
+https://shop.yodigitals.com/ - (E-commerce) <br/>
 School Management Application - (Under Development) <br/>
 
 <strong>Basics</strong> <br/>
