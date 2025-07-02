@@ -1,7 +1,7 @@
 # React/Next JS Projects
 
 <strong>Advanced</strong> <br/>
-<a href="https://www.emaavy.com/" target="_blank">https://www.emaavy.com/</a> - (E-commerce) 🔥<br/>
+https://www.emaavy.com/ - (E-commerce) 🔥<br/>
 https://shop.yodigitals.com/ - (E-commerce) 🔥<br/>
 School Management Application - (Under Development) <br/>
 
