@@ -3,7 +3,6 @@
 <strong>Advanced</strong> <br/>
 https://www.emaavy.com/ - (E-commerce) 🔥<br/>
 https://shop.yodigitals.com/ - (E-commerce) 🔥<br/>
-School Management Application - (Under Development) <br/>
 
 <strong>Basics</strong> <br/>
 https://github-profile-card-maker.netlify.app/ - (Fun tool) ✨<br />
