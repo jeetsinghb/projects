@@ -6,7 +6,7 @@ https://shop.yodigitals.com/ - (E-commerce) 🔥<br/>
 
 <strong>Intermediate</strong> <br/>
 https://contact-manager-lite.vercel.app/ - (Useful Tool) <br/>
-https://gsap-mac-landing.vercel.app/ <br/>
+https://gsap-mac-landing.vercel.app/ - (Advance UI UX) <br/>
 
 <strong>Basics</strong> <br/>
 https://github-profile-card-maker.netlify.app/ - (Fun tool) ✨<br />
