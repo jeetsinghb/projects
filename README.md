@@ -4,6 +4,10 @@
 https://www.emaavy.com/ - (E-commerce) 🔥<br/>
 https://shop.yodigitals.com/ - (E-commerce) 🔥<br/>
 
+<strong>Intermediate</strong> <br/>
+https://contact-manager-lite.vercel.app/ - (Useful Tool) <br/>
+https://gsap-mac-landing.vercel.app/ <br/>
+
 <strong>Basics</strong> <br/>
 https://github-profile-card-maker.netlify.app/ - (Fun tool) ✨<br />
 https://sk-chuck-norris.netlify.app/ - (Quote generator) 🎉<br/>
